@@ -1,5 +1,7 @@
 Project Overview:
 
+https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstQ0QwMjIwRU4tU2tpbGxzTmV0d29yay9sYWJzL0ZpbmFsUHJvamVjdC9maW5hbC1wcm9qZWN0X25ldy9maW5hbC1wcm9qZWN0X25ldy5tZCIsInRvb2xfdHlwZSI6InRoZWlhIiwiYWRtaW4iOmZhbHNlLCJpYXQiOjE2NzMzMjkxMzR9.vXvwcb5Gt030925MNHTsHzWrJCNELFuemrQIofOnSwE
+
 In this project you will assume the role of a back-end developer working for an online retailer selling books. You have been tasked with developing a server-side application that stores, retrieves and manages book ratings and reviews.
 
 Your server-side application is required to provide the following features and capabilities to allow users to:</br>
